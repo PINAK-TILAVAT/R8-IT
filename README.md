@@ -21,10 +21,7 @@ Key Features:
 ## 📬 Contact :
 
 PINAK – [pinaktilavat0@gmail.com]
-<br>
-GitHub: PINAK-TILVAT
 
-<p align="center">Made with ❤️ by <a href="https://github.com/your-username">Your Name</a></p>
 
 
 ## 📸 Screenshots :
