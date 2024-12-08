@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222675142277",
+    "project_id": "r8-it-de492",
+    "storage_bucket": "r8-it-de492.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222675142277:android:d1fc8bc1d281dbf773cbec",
+        "android_client_info": {
+          "package_name": "com.r8it.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8CG-dd8wITbo977az8oBlxIVOJzeoWHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
