@@ -14,9 +14,7 @@ Key Features:
 - 🚀 Simple, user-friendly interface.
 
 ## 🔧 Tech Stack :
-- Frontend: Dart 🎯 , Flutter 🦚
-- Backend: provider , firebase_core , firebase_auth , cloud_firestore
-- Database: FireBase 🔥
+<img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  /> <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  /> <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 
 ## 📬 Contact :
 
